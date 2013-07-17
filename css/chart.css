@@ -1,0 +1,149 @@
+.chart-form
+{
+	float:left;
+	width:550px;
+}
+.step1_chart_details
+{
+	float:left;
+	width:550px;
+}
+.step1_chart_details h1
+{
+	font-size:26px;
+	clear:both;
+}
+.step1_chart_details h1 a
+{
+	font-family:Arial,Helvetica,Sans-Serif;
+	font-weight:normal;
+	color:#570E00;
+	text-decoration:none;	
+}
+.step1_chart_details p
+{
+	font-size:14px;
+	line-height:19px;
+	text-align:justify;
+}
+.step1_chart_details input
+{
+	font-size: 15px;
+    /*height: 16px;*/
+    padding: 5px;
+    width: 80%;
+}
+.step1_chart_details p label
+{
+	color:#555555;
+	font-weight:bold;
+}
+.step1_chart_details select
+{
+	font-size: 16px;
+    height: 30px;
+    margin: 0 10px 0 0;
+    width: 130px;
+}
+.step1_chart_details input[type=radio]
+{
+	width:30px;
+}
+.step1_chart_details tbody
+{
+	font-size:12px;
+	font-weight:bold;
+	font-family:Arial,Helvetica,Sans-Serif;
+	font-weight:normal;
+	color:#555555;
+}
+.step1_chart_details p input[type=button]
+{
+	height:40px;
+	width:250px;
+}
+
+
+.step2_chart_details
+{
+	float:left;
+	width:550px;
+	display:none;
+}
+.step2_chart_details h1
+{
+	font-size:26px;
+	clear:both;
+}
+.step2_chart_details h1 a
+{
+	font-family:Arial,Helvetica,Sans-Serif;
+	font-weight:normal;
+	color:#570E00;
+	text-decoration:none;	
+}
+.step2_chart_details ul
+{
+    list-style: none outside none;
+    margin: 0;
+    padding: 0 0 10px;
+}
+.step2_chart_details ul li
+{
+    clear: both;
+    font-size: 14px;
+    list-style: none outside none;
+    margin: 5px 0;
+	color: #555555;
+	font-weight:bold;
+}
+.step2_chart_details p
+{
+    font-size: 14px;
+    line-height: 19px;
+    margin: 0;
+    padding: 0 0 10px;
+    text-align: justify;
+	color:#555555;
+}
+.step2_chart_details small
+{
+	color:#555555;
+}
+.step2_chart_details input
+{
+	font-size: 14px;
+   /* height: 16px;*/
+    padding: 5px;
+    width: 50px;
+}
+.step2_chart_details p label
+{
+	color:#555555;
+	font-weight:bold;
+}
+.step2_chart_details select
+{
+    border: 1px solid #ABABAB;
+    font-size: 16px;
+    height: 30px;
+    margin: 0 10px 0 0;
+    width: 60px;
+}
+.step2_chart_details tbody
+{
+	font-size:12px;
+	font-weight:bold;
+	font-family:Arial,Helvetica,Sans-Serif;
+	font-weight:normal;
+	color:#555555;
+}
+.step2_chart_details tbody td
+{
+	font-weight:bold;
+}
+.step2_chart_details p input[type=submit]
+{
+	height:40px;
+	width:250px;
+}
